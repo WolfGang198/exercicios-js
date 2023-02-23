@@ -26,3 +26,8 @@ footer{
 img{
     border-radius: 200px;
 }
+
+div{
+    text-align: center;
+    padding: 8px;
+}
